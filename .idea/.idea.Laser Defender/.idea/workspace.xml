@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="611e9974-a690-4420-8deb-260a488ebcc0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyWaypoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6AF2972-6520-4645-BCA9-E23CD09C1187/8d/2fe8803c/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Shredder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyWaypoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScreenLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameSession.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScreenLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSession.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shredder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spinner.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j6qIkQOz2r0lNFsxJNnUIi2F7g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Block Breaker" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="611e9974-a690-4420-8deb-260a488ebcc0" name="Default Changelist" comment="" />
+      <created>1603134813276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603134813276</updated>
+      <workItem from="1603134816461" duration="35054000" />
+      <workItem from="1603789082990" duration="3046000" />
+      <workItem from="1603803855367" duration="27000" />
+      <workItem from="1603804016752" duration="1176000" />
+      <workItem from="1603807072545" duration="401000" />
+      <workItem from="1603807823664" duration="5842000" />
+      <workItem from="1603874202040" duration="516000" />
+      <workItem from="1603874766634" duration="8242000" />
+      <workItem from="1604047453216" duration="4687000" />
+      <workItem from="1604306681077" duration="14137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="265" width="424" height="493" key="FileChooserDialogImpl" timestamp="1604411225779">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="265" width="424" height="493" key="FileChooserDialogImpl/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1604047474690" />
+    <state x="743" y="265" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1604411225779" />
+    <state x="743" y="265" width="424" height="493" key="FileChooserDialogImpl/3840.0.1920.1080/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1603888848083" />
+    <state x="595" y="116" width="729" height="783" key="find.popup" timestamp="1604496419710">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="595" y="116" width="729" height="783" key="find.popup/0.27.1920.988@0.27.1920.988" timestamp="1604496419710" />
+    <state x="595" y="116" width="729" height="783" key="find.popup/3840.0.1920.1080/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1603884538994" />
+    <state x="624" y="235" key="run.anything.popup" timestamp="1603892198414">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="624" y="235" key="run.anything.popup/0.27.1920.988@0.27.1920.988" timestamp="1603371495586" />
+    <state x="624" y="235" key="run.anything.popup/3840.0.1920.1080/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1603892198414" />
+    <state x="623" y="243" key="search.everywhere.popup" timestamp="1603277997981">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="623" y="243" key="search.everywhere.popup/0.27.1920.988@0.27.1920.988" timestamp="1603277997981" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/HealthDisplay.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/HealthDisplay.cs" initialLine="12">
+            <startOffsets>
+              <option value="264" />
+            </startOffsets>
+            <endOffsets>
+              <option value="300" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
